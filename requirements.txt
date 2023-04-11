@@ -50,6 +50,7 @@ smmap==5.0.0
 soupsieve==2.4
 statsmodels==0.13.5
 streamlit==1.21.0
+TA-Lib==0.4.26
 tablib==3.4.0
 tenacity==8.2.2
 toml==0.10.2
