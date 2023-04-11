@@ -1,0 +1,12 @@
+# macOS
+*.DS_Store
+
+# Environments
+venv/
+
+# Unit tests
+__pycache__/
+
+# Miscellaneous
+*.pyc
+
